@@ -1,5 +1,29 @@
 [
   {
+    "identifier": "digital.mazz.zerozero",
+    "appcast": "https://cdn.jsdelivr.net/gh/flavormingo/zerozero@master/appcast.json",
+    "homepage": "https://github.com/flavormingo/zerozero",
+    "version": "1.0.0",
+    "title": "zerozero",
+    "name": "zerozero",
+    "description": "the sketch plugin that magically starts your page from (0,0)",
+    "author": "mazz",
+    "authorEmail": "me@mazz.digital",
+    "lastUpdated": "2024-10-02 09:24:00 UTC"
+  },
+  {
+    "identifier": "com.madebysnacks.killswitch",
+    "appcast": "https://cdn.jsdelivr.net/gh/madebysnacks/killswitch@master/appcast.json",
+    "homepage": "https://github.com/madebysnacks/killswitch",
+    "version": "1.1.0",
+    "title": "killswitch",
+    "name": "killswitch",
+    "description": "A simple Sketch plugin for disabling Symbold overrides.",
+    "author": "Snacks Studio",
+    "authorEmail": "hello@madebysnacks.com",
+    "lastUpdated": "2024-10-02 19:44:00 UTC"
+  },
+  {
     "title": "easy-code",
     "description": "easy code",
     "author": "luchaoqun125",
@@ -5642,7 +5666,7 @@
     "owner": "SwipeCircus",
     "author": "Swipe Circus",
     "appcast": "https://raw.githubusercontent.com/SwipeCircus/represent/master/.appcast.xml",
-    "lastUpdated": "2023-10-27 08:38:56 UTC"
+    "lastUpdated": "2024-10-11 18:36:02 UTC"
   },
   {
     "title": "img-pal-gen",
@@ -5886,7 +5910,7 @@
     "author": "Crowdin",
     "homepage": "https://github.com/crowdin/sketch-crowdin",
     "appcast": "https://raw.githubusercontent.com/crowdin/sketch-crowdin/master/.appcast.xml",
-    "lastUpdated": "2024-03-18 07:52:29 UTC"
+    "lastUpdated": "2024-10-14 06:49:33 UTC"
   },
   {
     "title": "Cluse",
